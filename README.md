@@ -1,0 +1,1 @@
+Code created as an exercise. It is the implementation of an observable list which was supposed to extend directly from the ArrayList class.
